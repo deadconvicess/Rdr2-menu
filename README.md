@@ -1,7 +1,5 @@
 This mod menu is still undetected to this day :)
 
-Menu bind is F4
-
 How to use:
 
 1. Download the loader
