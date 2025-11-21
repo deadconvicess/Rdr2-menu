@@ -17,19 +17,16 @@ Notes:
 
 ---
 
-# Required Software
+# Required Software Links
 
-• Microsoft Visual C++ Redistributables
+• Microsoft Visual
   Download: https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist
 
-• .NET Desktop Runtime
+• Desktop Runtime
   Download: https://dotnet.microsoft.com/en-us/download/dotnet
 
-• DirectX End-User Runtime
-  Download: https://www.microsoft.com/en-us/download/details.aspx?id=35
-
 • Windows SDK
-  Download: https://developer.microsoft.com/en-us/windows/downloads
+  Download https://developer.microsoft.com/en-us/windows/downloads
 
 
 
