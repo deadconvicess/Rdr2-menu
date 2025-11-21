@@ -3,7 +3,7 @@
 
 ---
 
-Family Mod Menu — Full Version
+Family Mod Menu — Full Version 1.2.4
 ----------------------------------
 
 This mod menu is still undetected as of now.
