@@ -13,7 +13,7 @@ How to Use:
 1. Download the loader.
 2. Launch Red Dead Redemption 2.
 3. Open the loader.
-4. Once you're in-game, press F4 to open the menu.
+4. Once in game, press F4 to open and End to unload cheat.
 
 Notes:
 - This version is confirmed working and currently undetected.
