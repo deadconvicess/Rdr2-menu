@@ -7,6 +7,7 @@ Family Mod Menu — Full Version 1.2.4
 ----------------------------------
 
 This mod menu is still undetected as of now.
+Fully works after being discontinued
 
 How to Use:
 1. Download the loader.
