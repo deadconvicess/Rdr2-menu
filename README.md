@@ -11,7 +11,7 @@ How to Use:
 
 Notes:
 - This version is confirmed working and currently undetected.
-- I have access to the source code, and the injection method used isn’t great — but it’s free, so expectations shouldn’t be too high.
+- I have access to the source code, and the injection method used isn’t great but it’s free, so expectations shouldn’t be too high.
 - Theme support is included, though finding compatible themes can be difficult.
 
 ---
