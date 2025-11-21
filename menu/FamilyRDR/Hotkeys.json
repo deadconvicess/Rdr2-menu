@@ -1,0 +1,27 @@
+{
+   "Language" : "en_GB",
+   "Menu" : 115,
+   "Up" : 104,
+   "Down" : 98,
+   "Left" : 100,
+   "Right" : 102,
+   "Return" : 96,
+   "Select" : 101,
+
+   "No clip" : 114,
+   "Move forward" : 87,
+   "Move back" : 83,
+   "Move left" : 65,
+   "Move right" : 68,
+   "Move up" : 81,
+   "Move down" : 90,
+   "Speed mode" : 16,
+
+   "Teleport Madam Nazar" : 118,
+   "Teleport To Waypoint" : 116,
+   "Teleport To camp" : 117,
+
+   "Bullet tracking" : 119,
+   "Treasure map" : 120,
+   "Game acceleration" : 121
+}
