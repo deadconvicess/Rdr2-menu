@@ -28,6 +28,4 @@ Notes:
 • Desktop Runtime
   Download: https://dotnet.microsoft.com/en-us/download/dotnet
 
-• Windows SDK
-  Download https://developer.microsoft.com/en-us/windows/downloads
 
