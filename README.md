@@ -10,31 +10,18 @@
 
 ---
 
-Family Mod Menu — Full Version 1.2.4
-----------------------------------
-
-This mod menu is still undetected as of now,
-fully works after being discontinued
-
-How to Use:
-1. Download the loader.
-2. Launch Red Dead Redemption 2.
+1. Download the menu folder.
+2. Launch Rdr2.
 3. Open the loader.
-4. Once in game, press F4 to open and End to unload cheat.
+4. Once in game, press F4 for family or Ins for horse to open menu.
 
-Notes:
-- This version is confirmed working and currently undetected.
-- I have access to the source code, and the injection method used isn’t great but it’s free, so expectations shouldn’t be too high.
-- Theme support is included, though finding compatible themes can be difficult.
-
-# Required Software Links
+# Required Downloads
 
 • Microsoft Visual
   Download: https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist
 
 • Desktop Runtime
   Download: https://dotnet.microsoft.com/en-us/download/dotnet
-
 
 ## Tut Vid
 
