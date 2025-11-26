@@ -2,8 +2,6 @@
 
 ![20251125230410_1](https://github.com/user-attachments/assets/943a5875-2c40-49e7-b1c1-4d1ef58a3d42)
 
-
-
 ---
 
 Family Mod Menu — Full Version 1.2.4
@@ -31,9 +29,9 @@ Notes:
 • Desktop Runtime
   Download: https://dotnet.microsoft.com/en-us/download/dotnet
 
----
 
-## Tut Vid
+
+
 
 
 
