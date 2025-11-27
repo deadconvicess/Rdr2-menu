@@ -1,5 +1,5 @@
 
-## Free Menus
+## Setup
 
 1. Download the menu folder.
 2. Launch Rdr2.
