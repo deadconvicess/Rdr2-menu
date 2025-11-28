@@ -6,7 +6,7 @@
 3. Open the loader.
 4. Once in game, press F4 for family or Ins for horse to open menu.
 
-# Required Downloads
+# Required Downloads (RUN INSTALLER)
 
 • Microsoft Visual
   Download: https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist
